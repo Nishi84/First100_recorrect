@@ -1,7 +1,8 @@
 .mainnav{
   background-color:#232f3e;
   text-align:center;
-  padding:20px 0px 10px 0px;	
+  padding-top:20px;
+  padding-bottom:20px;
 }
 
 li,.nav{
